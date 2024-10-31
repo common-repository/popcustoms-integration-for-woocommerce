@@ -1,0 +1,125 @@
+# Copyright (C) 2023 Popcustoms
+# This file is distributed under the GPL3 https://www.gnu.org/licenses/gpl-3.0.en.html.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Popcustoms Integration for WooCommerce 1.0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/popcustoms-for-"
+"woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-02-01 07:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: popcustoms\n"
+"\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;"
+
+#: includes/shipping.php:24
+msgid ""
+"Calculate live shipping rates based on actual Popcustoms shipping costs."
+msgstr ""
+
+#: includes/templates/dashboard.php:26
+msgid "Connect to Popcustoms"
+msgstr ""
+
+#. Description of the plugin
+msgid "Connects your Popcustoms account with WooCommerce."
+msgstr ""
+
+#: includes/admin.php:25
+msgid "Dashboard"
+msgstr ""
+
+#: includes/shipping.php:60
+msgid "Disable standard Woocommerce rates for products fulfilled by Popcustoms"
+msgstr ""
+
+#: includes/shipping.php:58
+msgid "Disable Woocommerce rates"
+msgstr ""
+
+#: includes/shipping.php:66
+msgid "Display Popcustoms status messages if shipping rates API request fails"
+msgstr ""
+
+#: includes/shipping.php:48
+msgid "Enable this shipping method"
+msgstr ""
+
+#: includes/shipping.php:46
+msgid "Enable/Disable"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.popcustoms.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/popcustoms-for-woocommerce/"
+msgstr ""
+
+#: includes/templates/dashboard.php:51
+msgid "Latest News"
+msgstr ""
+
+#: includes/shipping.php:54
+msgid ""
+"Our shipping fee is in USD. The shipping fee will multiple this value and be "
+"rounded to integer. To reset, please leave it blank."
+msgstr ""
+
+#: includes/templates/dashboard.php:31
+#, php-format
+msgid ""
+"Please contact your hosting provider and make sure our server ip %s is in "
+"the whitelist of Mod_Security or other server security softwares."
+msgstr ""
+
+#. Author of the plugin
+msgid "Popcustoms"
+msgstr ""
+
+#. Name of the plugin
+#: includes/templates/entry.php:1 includes/templates/dashboard.php:1
+msgid "Popcustoms Integration for WooCommerce"
+msgstr ""
+
+#: includes/shipping.php:23
+msgid "Popcustoms Shipping"
+msgstr ""
+
+#: includes/templates/dashboard.php:24
+msgid "Register at Popcustoms"
+msgstr ""
+
+#: includes/shipping.php:52
+msgid "Shipping Fee Ratio"
+msgstr ""
+
+#: includes/shipping.php:64
+msgid "Show Popcustoms warnings"
+msgstr ""
+
+#: includes/templates/dashboard.php:33
+msgid ""
+"This plugin supports Design-plus products which allows customers make "
+"personalized designs at your store."
+msgstr ""
+
+#: includes/templates/dashboard.php:32
+msgid "To enable/disable Popcustoms shipping for your store, go to"
+msgstr ""
+
+#: includes/templates/dashboard.php:32
+msgid "WooCommerce Shipping settings"
+msgstr ""
+
+#: includes/templates/dashboard.php:21
+msgid "Your site is connected to popcustoms already."
+msgstr ""

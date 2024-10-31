@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Popcustoms Integration for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-24 08:09+0000\n"
+"PO-Revision-Date: 2024-02-01 07:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: popcustoms"
+
+#: includes/shipping.php:24
+msgid ""
+"Calculate live shipping rates based on actual Popcustoms shipping costs."
+msgstr "实时运费"
+
+#: includes/templates/dashboard.php:26
+msgid "Connect to Popcustoms"
+msgstr "关联Popcustoms"
+
+#. Description of the plugin
+msgid "Connects your Popcustoms account with WooCommerce."
+msgstr "关联Popcustoms和WooCommerce"
+
+#: includes/admin.php:25
+msgid "Dashboard"
+msgstr "控制面板"
+
+#: includes/shipping.php:60
+msgid "Disable standard Woocommerce rates for products fulfilled by Popcustoms"
+msgstr "不要使用WooCommerce运费规则来计算popcustoms的商品"
+
+#: includes/shipping.php:58
+msgid "Disable Woocommerce rates"
+msgstr "禁用WooCommerce运费规则"
+
+#: includes/shipping.php:66
+msgid "Display Popcustoms status messages if shipping rates API request fails"
+msgstr "如果计算运费出现问题, 是否显示错误"
+
+#: includes/shipping.php:48
+msgid "Enable this shipping method"
+msgstr "启动此运费规则"
+
+#: includes/shipping.php:46
+msgid "Enable/Disable"
+msgstr "启用/禁用"
+
+#. Author URI of the plugin
+msgid "http://www.popcustoms.com"
+msgstr "http://www.popcustoms.com"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/popcustoms-for-woocommerce/"
+msgstr "https://wordpress.org/plugins/popcustoms-for-woocommerce/"
+
+#: includes/templates/dashboard.php:51
+msgid "Latest News"
+msgstr "最新公告"
+
+#: includes/shipping.php:54
+msgid ""
+"Our shipping fee is in USD. The shipping fee will multiple this value and be "
+"rounded to integer. To reset, please leave it blank."
+msgstr "实时运费为美元. 如果你需要换算成其他币种, 或者修改价格, 请在这里填写倍数. 恢复请放空"
+
+#: includes/templates/dashboard.php:31
+#, php-format
+#| msgid ""
+#| "Please contact your hosting provider and make sure our server ip 47.89."
+#| "194.2 is in the whitelist of Mod_Security or other server security "
+#| "softwares."
+msgid ""
+"Please contact your hosting provider and make sure our server ip %s is in "
+"the whitelist of Mod_Security or other server security softwares."
+msgstr "请联系你的服务器供应商, 确保我们的服务器ip %s 在Mod_Security或者其他安全软件的白名单中."
+
+#. Author of the plugin
+msgid "Popcustoms"
+msgstr "Popcustoms"
+
+#. Name of the plugin
+#: includes/templates/entry.php:1 includes/templates/dashboard.php:1
+msgid "Popcustoms Integration for WooCommerce"
+msgstr "Popcustoms Integration for WooCommerce"
+
+#: includes/shipping.php:23
+msgid "Popcustoms Shipping"
+msgstr "Popcustoms 运费"
+
+#: includes/templates/dashboard.php:24
+msgid "Register at Popcustoms"
+msgstr "注册Popcustoms帐号"
+
+#: includes/shipping.php:52
+msgid "Shipping Fee Ratio"
+msgstr "运费系数"
+
+#: includes/shipping.php:64
+msgid "Show Popcustoms warnings"
+msgstr "显示错误"
+
+#: includes/templates/dashboard.php:33
+msgid ""
+"This plugin supports Design-plus products which allows customers make "
+"personalized designs at your store."
+msgstr "这个插件支持微定功能, 允许顾客在您的店铺上对商品进行定制并下单."
+
+#: includes/templates/dashboard.php:32
+msgid "To enable/disable Popcustoms shipping for your store, go to"
+msgstr "如果要启动Popcustoms的运费规则, 请到"
+
+#: includes/templates/dashboard.php:32
+msgid "WooCommerce Shipping settings"
+msgstr "WooCommerce运费管理"
+
+#: includes/templates/dashboard.php:21
+#| msgid "Your site is connected to popcustoms."
+msgid "Your site is connected to popcustoms already."
+msgstr "你的站点已经关联了popcusotms."
